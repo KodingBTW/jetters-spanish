@@ -2,7 +2,7 @@
 Traducción al Español de Bomberman Jetters GBA
 
 ## Para Empezar
-Antes que nada necesitas una copia original del Bombemran Jetters, debes renombrarlo como jetters.gba en la carpeta raíz.
+Antes que nada necesitas una copia original del Bomberman Jetters, debes renombrarlo como jetters.gba en la carpeta raíz.
 
 ### Compilar
 Abre build.bat y jetters_esp.gba será creado.
