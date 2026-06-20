@@ -1,48 +1,53 @@
-# jetters
-Bomberman Jetters Translation Project
+# Jetters
+Traducción al Español de Bomberman Jetters GBA
 
-## Start Here
-To do anything, first place a copy of Bomberman Jetters as jetters.gba in the root.
+## Para Empezar
+Antes que nada necesitas una copia original del Bombemran Jetters, debes renombrarlo como jetters.gba en la carpeta raíz.
 
-### Build
-Run build.bat and jetters_eng.gba will be produced.
+### Compilar
+Abre build.bat y jetters_esp.gba será creado.
 
-You might need to install VC++ 10.0 to run Atlas: https://www.microsoft.com/en-us/download/details.aspx?id=26999
+Quizás necesites VC++ 10.0 para poder iniciar Atlas: https://www.microsoft.com/en-us/download/details.aspx?id=26999
 
-### Extract
-Run extract.bat and extracted files will appear in the extract folder.
+### Extraer
+Abre extract.bat y los archivos serán creados en su correspondientes carpetas.
 
-### Dump Script
-Run dump_script\dump_script.bat.
+### Extraer Textos
+Abre dump_script\dump_script.bat.
 
-## Credits
-Original Translation Project: https://github.com/Normmatt/Bomberman-Jetters-GBA-Translation
+## Créditos Originales
+Proyecto original de traducción: https://github.com/Normmatt/Bomberman-Jetters-GBA-Translation
 
-### Script
-* Higsby - Translation and editing
-* Lord Kuro - Translation
-* Pablitox - Insertion
-* Key Mace - Translation
-* DiscoGentleman - Translation
-* Rai - Initial script translation.
+### Textos
+* Higsby - Traducción y Edición
+* Lord Kuro - Traducción
+* Pablitox - Inserción
+* Key Mace - Traducción
+* DiscoGentleman - Traducción
+* Rai - Traducción Inicial.
 
 ### Hacking
 * Normmatt
-* Spikeman - Original VWF code.
+* Spikeman - Código VWF original.
 * Teod
 
-### Graphics Work
+### Gráficos
 * Teod
 
-### Fonts
+### Guías Usadas
 * Gemini | Melissa 8 : https://www.romhacking.net/fonts/23/
 * Dragonsbrethren | Dragon Warrior VWF : https://www.romhacking.net/fonts/10/
 * Damian Yerrick | Base Seven : https://www.romhacking.net/fonts/142/
 
 
-### Tools
+### Herramientas
 * Klarth | Atlas : https://www.romhacking.net/utilities/224/
 * Mat | GBAmdc : https://www.romhacking.net/utilities/431/
 * Kingcom | armips : https://github.com/Kingcom/armips
 * Cue | lzss : https://www.romhacking.net/utilities/826/
 * Alcaro | Flips : https://www.romhacking.net/utilities/1040/
+
+## Créditos Traducción al Español
+
+* Koda - Configuración Inicial
+* AS1003 - Traducción

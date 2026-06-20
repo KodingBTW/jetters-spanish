@@ -1,7 +1,7 @@
 
 .gba
 
-.open "jetters.gba","jetters_eng.gba",0x8000000
+.open "jetters.gba","jetters_esp.gba",0x8000000
 
 
 ; Free Space
@@ -37,6 +37,6 @@
 .include "asm\BHallCert.asm"
 .include "asm\BHallBoard.asm"
 
-; .include "asm\debug.asm"
+ .include "asm\debug.asm"
 
 .close
