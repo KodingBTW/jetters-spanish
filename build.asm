@@ -37,6 +37,6 @@
 .include "asm\BHallCert.asm"
 .include "asm\BHallBoard.asm"
 
- .include "asm\debug.asm"
+;.include "asm\debug.asm"
 
 .close
